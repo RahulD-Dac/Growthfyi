@@ -52,6 +52,8 @@ function EmbedWidget() {
                                     <label>
                                              EX=  https://api.dataforseo.com/v3/on_page/content_parsing/live
                                              Enter URL:
+
+                                             
                                              <input
                                                       type="text"
                                                       value={url}
